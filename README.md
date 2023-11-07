@@ -15,7 +15,7 @@ They have planned this to prepare themselves to cater to the people's needs once
 You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
 # My solution:
-Built a robust linear regression model which is able to explain around 80% of the bike demand and evaluated the model on various statistical metrics like variance inflation factor, r2_score and found the factors impacting the bike demand based.
+Built a robust linear regression model which is able to explain around 80% of the bike demand and evaluated the model on various statistical metrics like variance inflation factor, r2_score and found the factors impacting the bike demand.
   ## Insights:
   ![image](https://github.com/shirikoushik/BoomBikes-Bike-Sharing-Assignment/assets/35067803/166c3b1d-811a-4764-9828-3ee5222b2a3b)
   1) Fall has the highest bike demand
